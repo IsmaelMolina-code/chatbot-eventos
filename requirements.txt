@@ -1,0 +1,7 @@
+django-ninja
+django-filter
+django-cors-headers
+markdown
+python-dotenv
+aiohttp
+requests
