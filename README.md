@@ -1,1 +1,1 @@
-* Primero comenzamos por instalar las dependencias de este proyecto ejecutando #pip install -r requirements.txt
+
