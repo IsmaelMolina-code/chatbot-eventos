@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-_tfb$=v$llikq##x-2n30nrq!8ual3@$xb!sw_&#713#n1x=up
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost:8000',]
+ALLOWED_HOSTS = ['localhost:8000', '34.171.162.232']
 
 
 # Application definition
@@ -136,4 +136,7 @@ ALLOWED_HOSTS = ['ismael-chatbot.loca.lt',
                 'localhost',
                 'localhost:8000',
                 'chatboteventos.loca.lt',
-                'driving-slightly-collie.ngrok-free.app']
+                'driving-slightly-collie.ngrok-free.app',
+                '34.171.162.232',
+                'http://speed.cloudflare.com/',
+                'chatbot.techwaveinn.com']
